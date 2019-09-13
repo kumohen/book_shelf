@@ -5,7 +5,7 @@ const config ={
     },
     default:{
         'SECRET':"jss892358sssssssbchhd",
-        "DATABASE":"mongodb://mahen:12345a@ds119449.mlab.com:19449/book_shelf"
+        "DATABASE":"mongodb://<ur name>:<ur password>@ds119449.mlab.com:19449/book_shelf"
     }
 }
 
